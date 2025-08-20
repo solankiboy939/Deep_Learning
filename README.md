@@ -1,4 +1,4 @@
-# 🧠 Deep Learning Project  
+# 🧠 Deep Learning 
 
 ![Deep Learning Banner](assets/deep_learning_banner.png)  
 
