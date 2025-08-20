@@ -39,7 +39,7 @@ This project focuses on implementing and training neural networks to achieve sta
 - 🔹 Time Series Forecasting  
 
 📷 Example Model Flow:  
-![Model Architecture](assets/model_architecture.png)  
+![Model Architecture](https://miro.medium.com/0*LJH_VgClw4ogjsFp)  
 
 The goal is to provide a **practical and educational resource** for students, researchers, and developers.  
 
