@@ -12,19 +12,20 @@ This repository contains **end-to-end implementations, experiments, and insights
 
 ---
 
-## 📌 Table of Contents  
-- [Introduction](#introduction)  
-- [Features](#features)  
-- [Technologies Used](#technologies-used)  
-- [Project Workflow](#project-workflow)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Dataset](#dataset)  
-- [Results](#results)  
-- [Project Structure](#project-structure)  
-- [Future Improvements](#future-improvements)  
-- [Contributing](#contributing)  
-- [License](#license)  
+## 📌 Table of Contents
+- [Introduction](#-introduction)  
+- [Features](#-features)  
+- [Technologies Used](#-technologies-used)  
+- [Project Workflow](#-project-workflow)  
+- [Installation](#-installation)  
+- [Usage](#-usage)  
+- [Dataset](#-dataset)  
+- [Results](#-results)  
+- [Project Structure](#-project-structure)  
+- [Future Improvements](#-future-improvements)  
+- [Contributing](#-contributing)  
+- [License](#-license)  
+
 
 ---
 
