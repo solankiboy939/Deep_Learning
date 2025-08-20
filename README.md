@@ -64,7 +64,7 @@ The goal is to provide a **practical and educational resource** for students, re
 
 ---
 
-## 🔄 Project Workflow  
+## 🔄 File Workflow  
 1. 📂 Data Collection & Preprocessing  
 2. 🧠 Model Architecture Design  
 3. ⚙️ Training & Validation  
