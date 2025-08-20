@@ -1,6 +1,6 @@
 # 🧠 Deep Learning 
 
-![Deep Learning Banner](assets/deep_learning_banner.png)  
+![Deep Learning Banner](https://miro.medium.com/v2/resize:fit:1400/1*hir2A7jXWfghAXoeY5MAdA.gif)  
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)  
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)  
