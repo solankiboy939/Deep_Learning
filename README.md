@@ -65,6 +65,6 @@ The goal is to provide a **practical and educational resource** for students, re
 Clone the repository and install dependencies:  
 
 ```bash
-git clone https://github.com/your-username/deep-learning-project.git
+git clone https://github.com/solankiboy939/Deep_Learning.git
 cd deep-learning-project
 pip install -r requirements.txt
