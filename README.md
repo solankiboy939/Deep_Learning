@@ -1,6 +1,14 @@
 # 🧠 Deep Learning Project  
 
-A comprehensive project demonstrating the power of **Deep Learning** in solving real-world problems. This repository contains end-to-end implementations, experiments, and insights into deep learning concepts using modern frameworks like **TensorFlow** and **PyTorch**.  
+![Deep Learning Banner](assets/deep_learning_banner.png)  
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)  
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)  
+[![PyTorch](https://img.shields.io/badge/PyTorch-1.x-red.svg)](https://pytorch.org/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
+
+A comprehensive project demonstrating the power of **Deep Learning** in solving real-world problems.  
+This repository contains **end-to-end implementations, experiments, and insights** into deep learning concepts using modern frameworks like **TensorFlow** and **PyTorch**.  
 
 ---
 
@@ -28,6 +36,9 @@ This project focuses on implementing and training neural networks to achieve sta
 - 🔹 Object Detection  
 - 🔹 Natural Language Processing  
 - 🔹 Time Series Forecasting  
+
+📷 Example Model Flow:  
+![Model Architecture](assets/model_architecture.png)  
 
 The goal is to provide a **practical and educational resource** for students, researchers, and developers.  
 
@@ -58,6 +69,8 @@ The goal is to provide a **practical and educational resource** for students, re
 3. ⚙️ Training & Validation  
 4. 📊 Evaluation & Visualization  
 5. 🚀 Deployment (optional)  
+
+![Workflow](assets/workflow.png)  
 
 ---
 
